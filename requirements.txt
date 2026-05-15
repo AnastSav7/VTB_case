@@ -1,0 +1,20 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+h3
+osmnx
+geopandas
+shapely
+
+Подробнее с версиями
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.0
+matplotlib==3.8.4
+seaborn==0.13.2
+h3==4.4.2
+osmnx==1.9.3
+geopandas==1.0.1
+shapely==2.0.4
